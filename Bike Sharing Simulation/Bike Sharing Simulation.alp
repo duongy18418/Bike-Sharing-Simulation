@@ -257,8 +257,8 @@
 					<CollectionType>ARRAY_LIST_BASED</CollectionType>
 					<InEnvironment>true</InEnvironment>	
 					<InitialSpeedCode Class="CodeUnitValue">
-						<Code><![CDATA[(new Random()).nextDouble()]]></Code>
-						<Unit Class="SpeedUnits"><![CDATA[MPS]]></Unit>
+						<Code><![CDATA[100]]></Code>
+						<Unit Class="SpeedUnits"><![CDATA[KPH]]></Unit>
 					</InitialSpeedCode>
 					<InitialLocationType>AT_ANIMATION_POSITION</InitialLocationType>
 					<XCode Class="CodeValue">
